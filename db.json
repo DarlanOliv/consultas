@@ -1,0 +1,43 @@
+{
+  "posts": [
+    {
+      "id": 1,
+      "title": "json-server",
+      "description": "Darlan"
+    },
+    {
+      "id": 2,
+      "title": "json-Java",
+      "description": "Sophia"
+    },
+    {
+      "id": 3,
+      "title": "json-web",
+      "description": "Rosi"
+    },
+    {
+      "title": "yessss",
+      "description": "yessss",
+      "content": "yessss",
+      "id": 4
+    },
+    {
+      "title": "love",
+      "description": "love",
+      "content": "love",
+      "id": 5
+    },
+    {
+      "title": "roma",
+      "description": "roma",
+      "content": "roma",
+      "id": 6
+    },
+    {
+      "title": "React",
+      "description": "React",
+      "content": "React",
+      "id": 7
+    }
+  ]
+}
